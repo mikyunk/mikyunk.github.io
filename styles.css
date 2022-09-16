@@ -30,6 +30,7 @@ h2 {
     flex-direction: column;
     width: 350px;
     margin-bottom: 25px;
+    margin-top: 25px;
 }
 li {
     text-align: left;
@@ -41,7 +42,6 @@ li {
     display: flex;
     flex-direction: column;
     width: 350px;
-    margin-bottom: 25px;
 }
 .autumn {
     background-color:rgb(255, 198, 177);
