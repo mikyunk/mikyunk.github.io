@@ -42,6 +42,7 @@ li {
     display: flex;
     flex-direction: column;
     width: 350px;
+    margin-bottom: 25px;
 }
 .autumn {
     background-color:rgb(255, 198, 177);
@@ -49,4 +50,5 @@ li {
     display: flex;
     flex-direction: column;
     width: 350px;
+    margin-bottom: 25px;
 }
